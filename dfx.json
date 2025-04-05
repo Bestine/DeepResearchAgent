@@ -3,8 +3,7 @@
     "backend": {
       "dependencies": ["llm"],
       "main": "backend/app.mo",
-      "type": "motoko",
-      "args": "--enhanced-orthogonal-persistence"
+      "type": "motoko"
     },
     "frontend": {
       "dependencies": ["backend"],
