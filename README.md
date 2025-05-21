@@ -40,3 +40,6 @@ ollama run llama3.1:8b
 The above command will download an 8B parameter model, which is around 4GiB. Once the command executes and the model is loaded, you can terminate it. You won't need to do this step again.
 
 ### 3. Open the `BUILD.md` file for further instructions.
+
+
+**Note**: Rust is a great alternative
