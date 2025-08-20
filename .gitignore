@@ -82,6 +82,7 @@ celerybeat-schedule
 
 # Environments
 .env
+.env
 .venv
 env/
 venv/
@@ -118,3 +119,6 @@ venv.bak/
 
 # Windows
 Thumbs.db
+
+# Learning resources
+resource/
